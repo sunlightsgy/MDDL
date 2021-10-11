@@ -19,13 +19,13 @@ The dataset can be downloaded [HERE](https://mailstsinghuaeducn-my.sharepoint.co
 
 We intended to detect and analyze depressed users with offline and online behaviors. Regarding offline behaviors, there are clear definitions in depression criteria, which have been widely used in depression diagnosis. On the other hand, we harvested the social media and found some common online behaviors. With references in computer science and psychology, we finally defined and extracted six depression-oriented feature groups to comprehensively describe each user, that is, Social Network Feature, User Profile Feature, Visual Feature, Emotional Feature, Topic-level Feature and Domain-specific Feature.
 
-Our feature table can be seen [HERE](https://depressiondetection.droppages.com/data/feature_table.xlsx).
+Our feature table can be seen [HERE](https://www.dropbox.com/s/hernplxxgqrumhu/feature_table.xlsx?dl=0).
 
 ## Sentimental Emoji Labrary
 
 Emoji are incompatible with many text processing algorithms. We thus removed the emoji in Tweets' texts with an emoji library collected from Twitter. We invited three annotators to vote for the sentiment of the emoji in our library. Based on the majority voting, we obtained a sentimental emoji library, with which we extracted the sentimental emoji counts.
 
-The sentimental emoji library can be seen [HERE](https://depressiondetection.droppages.com/data/emoticon.xlsx).
+The sentimental emoji library can be seen [HERE](https://www.dropbox.com/s/d5k4n4g3vj5yjyq/emoticon.xlsx?dl=0).
 
 ## Citation
 
