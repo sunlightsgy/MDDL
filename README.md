@@ -13,7 +13,7 @@ Although D1 and D2 are well-labeled, the depressed users on D1 are too few so we
 
 - Depression-candidate Dataset D3. Based on the tweets on December 2016, we constructed a unlabeled depression-candidate dataset D3, where users were obtained if their anchor tweets loosely contained the character string "depress". Although the depression-candidate dataset contained much noise, it contained more depressed users than randomly sampling.
 
-The dataset can be downloaded [HERE](https://mailstsinghuaeducn-my.sharepoint.com/:u:/g/personal/sgy16_mails_tsinghua_edu_cn/EbcI8AuOdCVJp7Itjzx3U_4BkJf1iDJiGykLwkgNHDKHyg?e=lnuY91).
+The dataset can be downloaded [HERE](https://tsinghuaeducn-my.sharepoint.com/:u:/g/personal/xin_wang_tsinghua_edu_cn/ERRraBnWY0JBsR95g8cf8oEBjeWtH5UGRL4yNdPbDTDc9w?e=ZJauG5).
 
 ## Features
 
